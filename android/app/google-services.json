@@ -1,0 +1,170 @@
+{
+  "project_info": {
+    "project_number": "670417916060",
+    "project_id": "lagosevents-802e2",
+    "storage_bucket": "lagosevents-802e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670417916060:android:4ebb1a2d27365f619f5d59",
+        "android_client_info": {
+          "package_name": "com.example.lagos_events_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670417916060-kote0lkii2qf0h6lbm8e3f5j381jrjp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lagos_events_v2",
+            "certificate_hash": "b515379b5ea88cc068033fc0f0ae9281f3cf8bb5"
+          }
+        },
+        {
+          "client_id": "670417916060-29t812oh8q4dikd3jaqsqpuu0adrhh8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVL2tAMfmjdBHHice-X7juYu7s_WegZPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670417916060-29t812oh8q4dikd3jaqsqpuu0adrhh8s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "670417916060-5bugopultbkppi2246p98gpkvh9nc73g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "fingerfood.lagosEvents"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670417916060:android:156fa0e24b5019c19f5d59",
+        "android_client_info": {
+          "package_name": "com.fingerfood.lagos_events"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670417916060-29t812oh8q4dikd3jaqsqpuu0adrhh8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVL2tAMfmjdBHHice-X7juYu7s_WegZPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670417916060-29t812oh8q4dikd3jaqsqpuu0adrhh8s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "670417916060-5bugopultbkppi2246p98gpkvh9nc73g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "fingerfood.lagosEvents"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670417916060:android:0e555df60c56b5779f5d59",
+        "android_client_info": {
+          "package_name": "com.fingerfoodapps.lagos_events"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670417916060-qprti80sma7do7q4abgassk0cdobq6rk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fingerfoodapps.lagos_events",
+            "certificate_hash": "b515379b5ea88cc068033fc0f0ae9281f3cf8bb5"
+          }
+        },
+        {
+          "client_id": "670417916060-29t812oh8q4dikd3jaqsqpuu0adrhh8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVL2tAMfmjdBHHice-X7juYu7s_WegZPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670417916060-29t812oh8q4dikd3jaqsqpuu0adrhh8s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "670417916060-5bugopultbkppi2246p98gpkvh9nc73g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "fingerfood.lagosEvents"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670417916060:android:0e981abb9e5994349f5d59",
+        "android_client_info": {
+          "package_name": "fingerfood.lagos_events"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670417916060-29t812oh8q4dikd3jaqsqpuu0adrhh8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVL2tAMfmjdBHHice-X7juYu7s_WegZPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670417916060-29t812oh8q4dikd3jaqsqpuu0adrhh8s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "670417916060-5bugopultbkppi2246p98gpkvh9nc73g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "fingerfood.lagosEvents"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
